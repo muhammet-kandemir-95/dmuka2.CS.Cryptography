@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dmuka2.CS.Cryptography", "dmuka2.CS.Cryptography\dmuka2.CS.Cryptography.csproj", "{E29D9539-6BE1-4463-B608-F171959C8C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dmuka2.CS.Cryptography.MSTest", "dmuka2.CS.Cryptography.MSTest\dmuka2.CS.Cryptography.MSTest.csproj", "{6417EB79-D4F4-44F4-B300-678A0D883EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E29D9539-6BE1-4463-B608-F171959C8C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E29D9539-6BE1-4463-B608-F171959C8C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E29D9539-6BE1-4463-B608-F171959C8C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E29D9539-6BE1-4463-B608-F171959C8C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6417EB79-D4F4-44F4-B300-678A0D883EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6417EB79-D4F4-44F4-B300-678A0D883EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6417EB79-D4F4-44F4-B300-678A0D883EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6417EB79-D4F4-44F4-B300-678A0D883EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59AEE61E-3F2C-4A45-98DD-7DEEE472C66E}
+	EndGlobalSection
+EndGlobal
